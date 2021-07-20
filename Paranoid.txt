@@ -61,4 +61,4 @@
 0.0.0.0 app-a03.lp1.npns.srv.nintendo.net
 #
 # known to block wifi access
-0.0.0.0 ctest.cdn.nintendo.net
+# ctest.cdn.nintendo.net

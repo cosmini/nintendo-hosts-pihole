@@ -4,7 +4,7 @@
 0.0.0.0 aauth-lp1.ndas.srv.nintendo.net
 #
 # Nintendo Account
-0.0.0.0 accounts.nintendo.com
+# 0.0.0.0 accounts.nintendo.com
 #
 # Add Friends API
 0.0.0.0 api.accounts.nintendo.com:443
@@ -48,17 +48,9 @@
 ## Facebook Image Posting
 0.0.0.0 web-lp1.share.srv.nintendo.net
 #
-# Game Related:
-# Snake Pass
-0.0.0.0 snake.sumo-services.co.uk:443
-#
-# Disgea 5
 0.0.0.0 g2785c501-lp1.s.n.srv.nintendo.net
 0.0.0.0 ngs-2785c5-live.s3.amazonaws.com
 #
 # from itzxzac
 0.0.0.0 bcat-list-lp1.cdn.nintendo.net
 0.0.0.0 app-a03.lp1.npns.srv.nintendo.net
-#
-# known to block wifi access
-# ctest.cdn.nintendo.net

@@ -4,7 +4,7 @@
 0.0.0.0 aauth-lp1.ndas.srv.nintendo.net
 #
 # Nintendo Account
-# 0.0.0.0 accounts.nintendo.com
+0.0.0.0 accounts.nintendo.com
 #
 # Add Friends API
 0.0.0.0 api.accounts.nintendo.com:443

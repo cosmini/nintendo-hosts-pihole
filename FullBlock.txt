@@ -1,0 +1,16 @@
+#Wii U & 3DS
+0.0.0.0 cbvc.cdn.nintendo.net
+0.0.0.0 nus.c.shop.nintendowifi.net
+0.0.0.0 nus.cdn.c.shop.nintendowifi.net
+
+#Switch
+0.0.0.0 sun.hac.lp1.d4c.nintendo.net
+0.0.0.0 receive-lp1.dg.srv.nintendo.net
+0.0.0.0 ecs-lp1.hac.shop.nintendo.net
+0.0.0.0 accounts.nintendo.com
+0.0.0.0 bugyo.hac.lp1.eshop.nintendo.net
+0.0.0.0 dauth-lp1.ndas.srv.nintendo.net
+0.0.0.0 receive-lp1.dg.srv.nintendo.net
+0.0.0.0 conntest.nintendowifi.net
+0.0.0.0 e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
+0.0.0.0 app-a03.lp1.npns.srv.nintendo.net

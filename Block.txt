@@ -7,7 +7,7 @@
 0.0.0.0 accounts.nintendo.com
 #
 # Add Friends API
-0.0.0.0 api.accounts.nintendo.com:443
+0.0.0.0 api.accounts.nintendo.com
 0.0.0.0 app-a04.lp1.npns.srv.nintendo.net
 0.0.0.0 app-a05.lp1.npns.srv.nintendo.net
 0.0.0.0 app-b04.lp1.npns.srv.nintendo.net
